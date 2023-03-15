@@ -1,0 +1,76 @@
+*{
+    background-color:rgb(255, 251, 254);
+}
+.logo{
+    margin:10px 100px 10px 500px;
+}
+.logo1{
+    margin:180px 110px 10px 515px;
+}
+.Foto{
+    margin:5px 100px 10px 450px;
+}
+.Texto{
+    margin:10px 200px 10px 200px;
+    text-align:justify;
+}
+.Textocentrado{
+    margin:10px 200px 10px 200px;
+    text-align:center;
+}
+.Enunciado{
+    margin:10px 150px 10px 700px;
+    color: rgb(229, 124, 168);
+}
+.pantonei{
+    margin:10px 8px 10px 200px;
+    width:350px;
+}
+.pantonem{
+    margin:10px 16px 10px 16px;
+    width:350px;
+}
+.pantoned{
+    margin:10px 100px 10px 8px;
+    width:350px;
+}
+.contenedor{
+    display:flex;
+}
+.Textopantone{
+    margin:5px 30px 5px 200px;
+}
+.Textopantone1{
+    margin:5px 30px 5px 250px;
+}
+.Textopantone3{
+    margin:5px 30px 5px 270px;
+}
+.Textopantone2{
+    margin:5px 30px 5px 215px;
+}
+.copy{
+    text-align: center;
+    background-color:  rgb(245, 149, 199);
+}
+.copy1{
+    text-align: center;
+    background-color:  rgb(245, 149, 199);
+    margin:320px 0px 0px 0px
+}
+.suscribete{
+    text-align:center;
+}
+pre{
+   text-align:center;
+   color:rgb(54, 27, 33);
+   background-color:rgb(255, 212, 233);
+   padding:25px;
+   margin:5px 500px 5px 500px;
+}
+h3{
+    color:rgb(229, 124, 168);
+    text-align: center;
+    margin-top:20px;
+}
+    
