@@ -1,0 +1,132 @@
+h3{
+    background-color: #9ea9e7;
+    color: rgb(59, 59, 59);
+    margin-top: 0px;
+    font-size: 25px;
+    text-align: center;
+    font-family: helvetica, verdana, arial;
+}
+*{
+    margin: 0px;
+    background-color: #dadef0;
+}
+#pegatina{
+    width: 300px;
+    height:300px;
+    margin-left:90px;
+    margin-bottom: 130px;
+}
+#titulo{
+    width: 650px;
+    height:490px;
+    margin-left:210px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #c0c6e7;
+    border-radius: 10%;
+}
+#pegatina2{
+        width: 300px;
+        height:300px;
+        margin-right:90px;
+        margin-left:120px;
+        margin-bottom: 130px;
+}
+#introduccion{
+    font-family: helvetica, verdana, arial;
+    line-height: 0.8cm;
+    color: rgb(37, 37, 37);
+    text-align: center;
+    margin: 50px 500px 25px 500px;
+    font-size: 18px;
+}
+pre{
+    font-family: helvetica, verdana, arial;
+    color:#f2f4fa;
+    background-color: #838fd3;
+    font-size: 20px;
+    text-align: center;
+    padding:20px;
+    margin: 50px 500px 25px 500px;
+}
+footer{
+    color: rgb(59, 59, 59);
+    font-size: 25px;
+    text-align: center;
+    font-family: helvetica, verdana, arial;
+}
+#suscripcion{
+    background-color:#cbd1ec;
+    text-align: center;
+    font-size: 30px;
+    font-family: helvetica, verdana, arial;
+    padding-top: 30px;
+}
+#correo{
+    background-color: #cbd1ec;
+    text-align: center;
+    font-size: 30px;
+    font-family: helvetica, verdana, arial;
+    padding-bottom: 30px;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-family: helvetica, verdana, arial;
+    margin:20px;
+    margin-top: 40px;
+}
+.creacion{
+    width: 400px;
+    height:500px;
+    margin:20px;
+    padding: 10px;
+    background-color: #838fd3;
+}
+.nombres{
+    display: flex;
+    font-family: helvetica, verdana, arial;
+}
+.nombre1{
+    margin:5px 30px 5px 30px;
+}
+.nombre2{
+    margin:5px 50px 5px 335px;
+}
+.nombre3{
+    margin:5px 30px 5px 300px;
+}
+.nombre4{
+    margin:5px 30px 5px 245px;
+}
+
+.nombre5{
+    margin:5px 30px 5px 30px;
+}
+.nombre6{
+    margin:5px 50px 5px 345px;
+}
+.nombre7{
+    margin:5px 30px 5px 310px;
+}
+.nombre8{
+    margin:5px 30px 5px 315px;
+}
+.producto1{
+    width: 300px;
+    height:300px;
+    padding: 15px 15px 60px 15px;
+    background-color: #ffffff;
+    border-radius: 2%;
+}
+.producto2{
+    width: 300px;
+    height:300px;
+    padding: 15px 15px 60px 15px;
+    background-color: #ffffff;
+    border-radius: 2%;
+    margin-bottom: 100px;
+}
+#izquierda{
+    margin-left: 250px;
+}
